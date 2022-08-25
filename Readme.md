@@ -19,7 +19,7 @@
   </a>
     <a href=# align"center">
         <img src="https://ineuron.ai/images/ineuron-logo.png" alt="2nd logo" width="80">
-<h3 align="center">Project 1</h3>
+<h3 align="center">Project 3</h3>
 <!-- *** Change Here Live Link   -->
   <p align="center">
     <br />
