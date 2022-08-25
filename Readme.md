@@ -1,4 +1,4 @@
-#Project 1 Repositories
+#Project 2 Repositories
 
 <div id="top"></div>
 
@@ -20,10 +20,10 @@
     <a href=# align"center">
         <img src="https://ineuron.ai/images/ineuron-logo.png" alt="2nd logo" width="80">
 <h3 align="center">Project 1</h3>
-
+<!-- *** Change Here Live Link   -->
   <p align="center">
     <br />
-    <a href="https://coderx-ui-projects-1.netlify.app">Live Link</a>
+    <a href="https://coderx-ui-projects-3.netlify.app">Live Link</a>
   </p>
 </div>
 
@@ -47,7 +47,9 @@
 
 ## About The Project
 
-![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-1/blob/main/1.png)
+<!-- *** Change Here Blog Image  -->
+
+![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-3/blob/main/thumbnail.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
@@ -76,7 +78,9 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://coderx-ui-projects-1.netlify.app)
+<!-- *** Change Here Live Link -->
+
+[Live Project URL](https://coderx-ui-projects-3.netlify.app)
 
 <!-- LEARNT -->
 
@@ -109,9 +113,8 @@ For this project I took around `8 to 10 hours` to complete it. The major portion
 
 - **Name :** Aniruddha Das
 - **Email :** aniruddha.294@gmail.com
-- **Website :** [coderx.netlify.app](https://coderx-ui-projects-1.netlify.app)
-
-Project Link: [link](https://coderx-ui-projects-1.netlify.app)
+<!-- *** Change Here Live Link -->
+- **Website :** [coderx.netlify.app](https://coderx-ui-projects-3.netlify.app)
 
 <!-- BACK TO TOP -->
 
@@ -158,6 +161,7 @@ Project Link: [link](https://coderx-ui-projects-1.netlify.app)
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
 <!-- Project screenshot -->
+<!-- *** Change Here Live Link & Blog image -->
 
-[product-screenshot]: https://github.com/ani294/UI_HTML_CSS_Project-1/blob/main/1.png
-[project-url]: https://coderx-ui-projects-1.netlify.app
+[product-screenshot]: https://github.com/ani294/UI_HTML_CSS_Project-3/blob/main/thumbnail.png
+[project-url]: https://coderx-ui-projects-3.netlify.app
